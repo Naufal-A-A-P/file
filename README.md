@@ -1,2 +1,4 @@
-# file
-for anything file and testing programs
+# hai
+
+Ini pertama kali sy membuat project di github,
+jadi saya belum terlalu paham tentang UI nya

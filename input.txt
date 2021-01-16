@@ -1,0 +1,32 @@
+2005,Ahmad Rizal,9A,01,-
+2006,Akhmad Rifai,9A,02,Bendosari Kauman
+0000,Aliffia Septyaningsih,9A,03,-
+0000,Anggit Satriyo Pangestu,9A,04,-
+0000,Anggita Cahyani,9A,05,-
+0000,Apriana Dewi Nur Kholifah,9A,06,Semen
+0000,Aprilina Fajar Saputri,9A,07,-
+0000,Ardiansyah Febrian Saputra,9A,08,Semen
+0000,Damas Alhafiyyan Susila,9A,09,-
+0000,Desy Listiyaningrum,9A,10,-
+2006,Fitri Irmawati,9A,11,-
+0000,Gilang Firman Faira,9A,12,Muntilan
+0000,Gilang Ramadhan,9A,13,Muntilan
+0000,Hasan Wirayuda Pratama,9A,14,-
+2006,Hilaldi Yusditira,9A,15,Nabin
+2005,Ilham Syaputra,9A,16,Citrogaten Lor
+0000,Khalisa Reffrose An Najwa,9A,17,Jumoyo
+0000,Meisy Muliasa Insani,9A,18,-
+2006,Miftahuddin Ahmad Zanwar,9A,19,Bendosari Gede
+2006,Naufal Aulia Arief Prihastyo,9A,20,Citrogaten Tegal
+0000,Navisa Febrianasari,9A,21,Sucen
+2006,Rafi Adha Putra Mardias,9A,22,-
+0000,Retno Tri Rejeki,9A,23,-
+0000,Safitri Novitasari,9A,24,-
+0000,Septy Laelani W,9A,25,-
+2006,Siti Dawiyah Solikhah,9A,26,-
+0000,Siti Masruroh,9A,27,-
+2005,Siti Nur Hanifah,9A,28,-
+0000,Tanifa Diyan Sulistyawati,9A,29,-
+0000,Trustha Yogya Kanaka,9A,30,-
+2006,Vina Khusni Roslina,9A,31,-
+0000,Zulfan Taufiqulsyaikha,9A,32,Krakitan
